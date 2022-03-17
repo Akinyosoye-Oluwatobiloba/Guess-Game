@@ -1,0 +1,32 @@
+body{
+    background-color:rgba(144, 197, 21, 0.952);
+}
+#container{
+    background-color:rgb(205, 197, 90);
+    height:275px;
+    width:750px;
+    border:5px solid rgb(0, 255, 179);
+    margin:auto;
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+}
+#btn{
+    padding: 10px 70px;
+    margin-top:20px;
+    border-radius:5%;
+}
+
+#btn:hover{
+    background-color:gold;
+    color:blue;
+
+}
+ #input1{
+    width:2000px;
+    margin:25px auto;
+}
+button1{
+    margin:25px auto;
+}
